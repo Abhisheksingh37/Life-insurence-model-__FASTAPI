@@ -1,2 +1,2 @@
-# Life-insurence-model-__FASTAPI
+# Life-insurence-model__FASTAPI
 fastapi_practice
